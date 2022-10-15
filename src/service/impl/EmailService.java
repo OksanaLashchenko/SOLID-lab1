@@ -1,6 +1,5 @@
 package service.impl;
 
-import entity.Task;
 import service.MessageService;
 
 public class EmailService implements MessageService {

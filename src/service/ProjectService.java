@@ -7,6 +7,6 @@ public interface ProjectService {
 
     void addUser(Project project, User user);
 
-    String getMessage(MessageService messageService);
+    String getMessage();
 
 }
